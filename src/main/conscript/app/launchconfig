@@ -1,0 +1,12 @@
+[app]
+  version: 0.1.0
+  org: net.databinder
+  name: screpl
+  class: screpl.App
+[scala]
+  version: 2.8.1
+[repositories]
+  local
+  maven-local
+  scala-tools-releases
+  maven-central
